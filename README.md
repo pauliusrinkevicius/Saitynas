@@ -1,2 +1,2 @@
-# Saitynas
+# Projektas "Tyrimas"
 saityno modulio darbai
